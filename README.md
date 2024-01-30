@@ -18,5 +18,3 @@
 
 - [x] C'est super !
 - [ ] C'est nul
-
-C'est modifié
